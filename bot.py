@@ -22,7 +22,7 @@ BOT_USERNAME = "@ReepfysBot"
 BRAND_NAME = "Reefy"
 MANAGER_USERNAME = "@ReepfyManage"
 SUPPORT_USERNAME = "@ReepfyManage"
-STATS_CONTACT = "@DeepfyMarket"
+STATS_CONTACT = "@ReepfyManage"
 COMMISSION_PERCENT = 1.0
 ADMIN_IDS = [8861315128]
 DB_PATH = "reefy.db"
@@ -220,7 +220,7 @@ TEXTS = {
         "btn_add_card": "Добавить карту/номер телефона",
         "support_menu": "Для связи с поддержкой нажмите на кнопку ниже:",
         "stats": (
-            "DEEPFY MARKET · Pro\n\n"
+            "REEFY MARKET · Pro\n\n"
             "<b>Сводка по платформе</b>\n\n"
             "› Оборот · $130.000+\n"
             "› Сделок · Больше 10.000\n"
@@ -363,7 +363,7 @@ TEXTS = {
         "btn_add_card": "Add card/phone number",
         "support_menu": "To contact support, press the button below:",
         "stats": (
-            "DEEPFY MARKET · Pro\n\n"
+            "REEFY MARKET · Pro\n\n"
             "<b>Platform summary</b>\n\n"
             "› Turnover · $130,000+\n"
             "› Deals · More than 10,000\n"
@@ -506,7 +506,7 @@ TEXTS = {
         "btn_add_card": "添加银行卡/手机号",
         "support_menu": "如需联系客服，请点击下方按钮：",
         "stats": (
-            "DEEPFY MARKET · Pro\n\n"
+            "REEFY MARKET · Pro\n\n"
             "<b>平台概览</b>\n\n"
             "› 营业额 · $130.000+\n"
             "› 交易数 · 超过 10.000\n"

@@ -17,7 +17,7 @@ from aiogram.types import (
 )
 
 # ============ КОНФИГ ============
-BOT_TOKEN = "8965051374:AAGGx4PrsKBWkc-iobxfqekf-nGKLWnGdek"
+BOT_TOKEN = "8451690194:AAGwBeN_PnnmGp_h3ADK_8HAw7PJPOZgrAs"
 BOT_USERNAME = "@ReepfysBot"
 BRAND_NAME = "Reefy"
 MANAGER_USERNAME = "@ReepfyManage"
